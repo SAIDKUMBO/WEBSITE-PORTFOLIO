@@ -6,7 +6,7 @@ Welcome to my first personal portfolio, built entirely with **HTML and CSS** as 
 
 ## 🔗 Live Preview
 
-[View the Website (if hosted)](https://github.com/SAIDKUMBO.io/portfolio)  
+[View the Website (if hosted)](https://saidkumbo.github.io/website-portfolio/)  
 
 ---
 
